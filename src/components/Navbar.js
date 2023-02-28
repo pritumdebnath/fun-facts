@@ -5,7 +5,7 @@ const Navbar = () => {
     return(
         <div>
             <nav>
-                <Link to='/fun-facts' className='navbar'>MK4 Toyota Supra Facts</Link>
+                <Link to='/fun-facts' className='navbar'>Toyota Supra Facts</Link>
             </nav>
         </div>
     )
